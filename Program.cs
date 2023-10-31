@@ -6,6 +6,6 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Hellosasdasd!");
+        Console.WriteLine("Hello!");
     }
 }
