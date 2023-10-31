@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vladislavgolosov/Desktop/C sharp/Lessons/Lessons.csproj": {}
+    "/Users/vladislavgolosov/Desktop/C#/Lessons/Lessons.csproj": {}
   },
   "projects": {
-    "/Users/vladislavgolosov/Desktop/C sharp/Lessons/Lessons.csproj": {
+    "/Users/vladislavgolosov/Desktop/C#/Lessons/Lessons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vladislavgolosov/Desktop/C sharp/Lessons/Lessons.csproj",
+        "projectUniqueName": "/Users/vladislavgolosov/Desktop/C#/Lessons/Lessons.csproj",
         "projectName": "Lessons",
-        "projectPath": "/Users/vladislavgolosov/Desktop/C sharp/Lessons/Lessons.csproj",
+        "projectPath": "/Users/vladislavgolosov/Desktop/C#/Lessons/Lessons.csproj",
         "packagesPath": "/Users/vladislavgolosov/.nuget/packages/",
-        "outputPath": "/Users/vladislavgolosov/Desktop/C sharp/Lessons/obj/",
+        "outputPath": "/Users/vladislavgolosov/Desktop/C#/Lessons/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/vladislavgolosov/.nuget/NuGet/NuGet.Config"
